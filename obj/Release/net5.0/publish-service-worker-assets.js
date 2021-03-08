@@ -13,7 +13,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-iMsjVOSnVxpBFvP9XjRVUon0ytntjjmn4eHSle\/TqO4=",
+      "hash": "sha256-91mj3EBQyovAY1yZ1ZyaQnwrucRxVstRNJXViX3sDbY=",
       "url": "css\/components\/sign.css"
     },
     {
@@ -181,16 +181,40 @@
       "url": "Images\/sobrepesoMale.svg"
     },
     {
-      "hash": "sha256-JUymL+ne8oj8id28m1BsO7ydTLu1Xi4\/xXvdvWwtSvA=",
+      "hash": "sha256-1fqHd6MWYKCDiNHWBwf7z8n+vy4WZyLYmsvh25zBKVY=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-nfru1xro6y5KL0PlF59pzwl4qijw7WiBYrL603QTA8M=",
+      "hash": "sha256-ru9q8NjhIxS6u\/QEhPLqmMcvAqlORZxdopdaX69vYcE=",
+      "url": "logo webapp.svg"
+    },
+    {
+      "hash": "sha256-g7\/uR5cGbB6OVg2iIKRrCltv3PlaQ\/NrHjoi9om+nwQ=",
       "url": "manifest.json"
     },
     {
       "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
       "url": "sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-EYDDlT9FWxc3LUKnjp6YHHBdpeQHscnQ6JF6ZCYjk6U=",
+      "url": "_framework\/ release\/web.config"
+    },
+    {
+      "hash": "sha256-nfru1xro6y5KL0PlF59pzwl4qijw7WiBYrL603QTA8M=",
+      "url": "_framework\/ release\/wwwroot\/manifest.json"
+    },
+    {
+      "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
+      "url": "_framework\/ release\/wwwroot\/sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-E6jIimWyO9SEy6\/46Ro+9Aot6S7jm3BgUN63hG96hbQ=",
+      "url": "_framework\/ release\/wwwroot\/_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-fberD1JA7uOH3yuBfltDnGy4j9XByFbjbqFlRLP+HjE=",
+      "url": "_framework\/ release\/wwwroot\/_framework\/firebase.json"
     },
     {
       "hash": "sha256-fberD1JA7uOH3yuBfltDnGy4j9XByFbjbqFlRLP+HjE=",
@@ -285,7 +309,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-tjdrNcqBzXyjXf9lV4pIEkijkK\/S275RRU8N9VumvYM=",
+      "hash": "sha256-sAG1ImlT+A5bDt02w8avYqhRk6u6TFNKjFOkHyrlOrM=",
       "url": "_framework\/Calculadora.WASM.dll"
     },
     {
@@ -357,7 +381,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-E6jIimWyO9SEy6\/46Ro+9Aot6S7jm3BgUN63hG96hbQ=",
+      "hash": "sha256-7lMdZ2zKTAuyxXOjBwnvfvQDydLQEA8AiTFNRmCVFY4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -365,5 +389,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "zthTi7Kj"
+  "version": "6VXniaTF"
 };

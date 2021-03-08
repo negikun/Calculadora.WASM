@@ -630,3 +630,8 @@ C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\Ca
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\service-worker-assets.js
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\bin\Release\net5.0\firebase.json
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\bin\Release\net5.0\ release\web.config
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\bin\Release\net5.0\ release\wwwroot\manifest.json
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\bin\Release\net5.0\ release\wwwroot\sample-data\weather.json
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\bin\Release\net5.0\ release\wwwroot\_framework\blazor.boot.json
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\bin\Release\net5.0\ release\wwwroot\_framework\firebase.json

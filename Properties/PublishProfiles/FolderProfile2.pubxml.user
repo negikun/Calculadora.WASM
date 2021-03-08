@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\ release</_PublishTargetUrl>
-    <History>True|2021-03-05T11:06:25.5476919Z;</History>
+    <History>True|2021-03-08T19:02:10.7228461Z;True|2021-03-05T05:06:25.5476919-06:00;</History>
   </PropertyGroup>
 </Project>
