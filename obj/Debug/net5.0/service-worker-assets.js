@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-xUxW4+yAiID7qN+0mXV0rcUdrrOkoKgdvGG88Be51aA=",
+      "hash": "sha256-tmDZgWH8yJ0pkmYRRT+MBsta6Ppo4eP51jK\/8q4Cego=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -785,11 +785,11 @@
       "url": "_framework\/dotnet.5.0.3.js"
     },
     {
-      "hash": "sha256-pBByIhTCVo9NxyTMwTfcRpz7l0qziQ9X8CKaOh2eD8M=",
+      "hash": "sha256-bULHCP1ZkaQJ39hibskAQHrwf0doGNRvJR\/ERskU41o=",
       "url": "_framework\/Calculadora.WASM.dll"
     },
     {
-      "hash": "sha256-vaWFXGLUfYeIyg2LDr1UcpaFI25gDsRArVsTga7Llj0=",
+      "hash": "sha256-LYgBbcnmc\/wKbS6592tb484VM9oD2\/RsgWr77vSXFkw=",
       "url": "_framework\/Calculadora.WASM.pdb"
     },
     {
@@ -1773,5 +1773,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "DGx2Jjqd"
+  "version": "qtNVPkr0"
 };
