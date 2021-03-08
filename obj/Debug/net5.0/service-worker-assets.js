@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-uNJeoO03HbzgQiIdcqhxhnBnmm31CG2o3WIawCr90t0=",
+      "hash": "sha256-aFZc7VP7cUDBKRDN4gsjOGX8LpO5pxO6MxA75qDk3WU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -785,11 +785,11 @@
       "url": "_framework\/dotnet.5.0.3.js"
     },
     {
-      "hash": "sha256-gowu2cxspY\/GSsYgs9BFaHwsWu8iuWzcsjETb7T7+4w=",
+      "hash": "sha256-0BJFr+vLJBoEtP1RVZYSNFywxfFE9xzOV73ZCGUmV8A=",
       "url": "_framework\/Calculadora.WASM.dll"
     },
     {
-      "hash": "sha256-EXuEdxLFEazRgeeyzc8bLY3FEqsRvOlGtePpfvCeNnY=",
+      "hash": "sha256-9FXIViJm7WWcBscCRWcGH1gj7VTvwgThx6SNsYuN3qM=",
       "url": "_framework\/Calculadora.WASM.pdb"
     },
     {
@@ -1589,7 +1589,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-iMsjVOSnVxpBFvP9XjRVUon0ytntjjmn4eHSle\/TqO4=",
+      "hash": "sha256-ivinIrhwGuCt77EYvWiV4s61MZFu3LUorr5XEwOPsCQ=",
       "url": "css\/components\/sign.css"
     },
     {
@@ -1761,6 +1761,10 @@
       "url": "index.html"
     },
     {
+      "hash": "sha256-ru9q8NjhIxS6u\/QEhPLqmMcvAqlORZxdopdaX69vYcE=",
+      "url": "logo webapp.svg"
+    },
+    {
       "hash": "sha256-nfru1xro6y5KL0PlF59pzwl4qijw7WiBYrL603QTA8M=",
       "url": "manifest.json"
     },
@@ -1769,5 +1773,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "goJOOV2c"
+  "version": "JCdkIakH"
 };

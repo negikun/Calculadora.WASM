@@ -193,6 +193,10 @@
       "url": "sample-data\/weather.json"
     },
     {
+      "hash": "sha256-fberD1JA7uOH3yuBfltDnGy4j9XByFbjbqFlRLP+HjE=",
+      "url": "_framework\/firebase.json"
+    },
+    {
       "hash": "sha256-rFG55cwkAnfHzxmxwBL2tTwfj8X8cjcSEAlco4bc1eo=",
       "url": "_framework\/dotnet.timezones.blat"
     },
@@ -361,5 +365,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "IcwCMTPi"
+  "version": "zthTi7Kj"
 };

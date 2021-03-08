@@ -91,7 +91,7 @@ using Calculadora.WASM.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 56 "C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\Pages\Index.razor"
+#line 58 "C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\Pages\Index.razor"
        
     private string Day { get; } = DateTime.Now.DayOfWeek.ToString();
 

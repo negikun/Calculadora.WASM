@@ -2,7 +2,9 @@
 
 
 <div class="sign-form">
-    <p class="welcome-text">Usuario - Hoy es @Day!</p>
+    <div class="logo-div">
+       <img class="logo-icon" src=".\logo webapp.svg" /> 
+    </div>
     <div class="Gender-Div">
         <p>Sexo: </p>
         <button class="Gender-select btn shadow-sm p-3 mb-5 bg-white rounded" style="background-image: url(@icon1)" type="submit" @onclick="MaleHandler"></button>
@@ -25,16 +27,16 @@
     </button>
     <div class="Act-Div">
         <div class="Image-Container">
-            <img class="image-female" src=@img1 style="opacity : @opacity1 " />
-            <img class="image-female" src=@img2 style="opacity : @opacity2 " />
-            <img class="image-female" src=@img3 style="opacity : @opacity3 " />
-            <img class="image-female" src=@img4 style="opacity : @opacity4 " />
-            <img class="image-female" src=@img5 style="opacity : @opacity5 " />
-            <img class="image-female" src=@img6 style="opacity : @opacity6 " />
+            <img class="image-female img-fluid" src=@img1 style="opacity : @opacity1 " />
+            <img class="image-female img-fluid" src=@img2 style="opacity : @opacity2 " />
+            <img class="image-female img-fluid" src=@img3 style="opacity : @opacity3 " />
+            <img class="image-female img-fluid" src=@img4 style="opacity : @opacity4 " />
+            <img class="image-female img-fluid" src=@img5 style="opacity : @opacity5 " />
+            <img class="image-female img-fluid" src=@img6 style="opacity : @opacity6 " />
         </div>
-        <div class="Meter-container">
-            <img class="Image-Meter" src="/Images/Medidor.svg" />
-            <img class="arrow-meter" src="/Images/Flecha.svg" style="transform: rotate(@deg)" />
+        <div class="Meter-container ">
+            <img class="Image-Meter img-fluid" src="/Images/Medidor.svg" />
+            <img class="arrow-meter img-fluid" src="/Images/Flecha.svg" style="transform: rotate(@deg)" />
         </div>
     </div>
     <div class="Act-Div">

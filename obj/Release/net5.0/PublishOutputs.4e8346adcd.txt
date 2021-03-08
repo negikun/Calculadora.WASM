@@ -46,6 +46,7 @@ C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\index.html
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\manifest.json
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\sample-data\weather.json
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\firebase.json
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\dotnet.timezones.blat
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\dotnet.wasm
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\icudt.dat
@@ -139,6 +140,7 @@ C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\index.html.br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\manifest.json.br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\sample-data\weather.json.br
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\firebase.json.br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\dotnet.timezones.blat.br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\dotnet.wasm.br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\icudt.dat.br
@@ -231,6 +233,7 @@ C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\br
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\index.html.gz
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\manifest.json.gz
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\sample-data\weather.json.gz
+C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\firebase.json.gz
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\dotnet.timezones.blat.gz
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\dotnet.wasm.gz
 C:\Users\pc\source\repos\Calculadora.WASM\Calculadora.WASM\obj\Release\net5.0\browser-wasm\PubTmp\Out\wwwroot\_framework\icudt.dat.gz
